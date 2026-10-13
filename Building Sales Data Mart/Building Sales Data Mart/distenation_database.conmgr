@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="distenation_database"
+  DTS:DTSID="{C3A2184B-A5C3-4759-B436-92FADCD9BDC0}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-6LT52MJ;Initial Catalog=EO_AdventureWorksDW2014;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Building Sales Data Mart-{C3A2184B-A5C3-4759-B436-92FADCD9BDC0}DESKTOP-6LT52MJ.EO_AdventureWorksDW2014;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
